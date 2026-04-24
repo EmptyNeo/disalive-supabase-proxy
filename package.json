@@ -7,13 +7,14 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "http-proxy-middleware": "^1.0.6"
+    "fastify": "^4.28.1",
+    "fastify-plugin": "^4.5.1",
+    "fastify-http-proxy": "^9.0.0"
   },
   "keywords": [
     "supabase",
     "proxy"
   ],
-  "author": "EmptyNeo",
+  "author": "kamikazechaser",
   "license": "Unlicense"
 }
