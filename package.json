@@ -10,17 +10,17 @@
     "node": "20.18.0"
   },
   "dependencies": {
-    "fastify": "^4.28.1",
+    "fastify": "^4.26.0",
     "fastify-plugin": "^4.5.1",
-    "fastify-http-proxy": "^10.0.0",
+    "fastify-http-proxy": "^9.0.0",
     "fastify-sensible": "^5.5.0",
-    "fastify-cookie": "^9.1.0",
+    "fastify-cookie": "^9.0.0",
     "@supabase/gotrue-js": "^2.62.0"
   },
   "keywords": [
     "supabase",
     "proxy"
   ],
-  "author": "kamikazechaser",
+  "author": "EmptyNeo",
   "license": "Unlicense"
 }
