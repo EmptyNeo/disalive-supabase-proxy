@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node ."
   },
+  "engines": {
+    "node": "20.18.0"
+  },
   "dependencies": {
     "@supabase/gotrue-js": "^1.9.2",
     "fastify": "^3.9.2",
